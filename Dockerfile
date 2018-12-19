@@ -26,6 +26,7 @@ RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.tuna.tsinghua.edu.cn/' /etc/apk/rep
         php7-fpm php7-pcntl \
         # php7-common \
         php7-bcmath \
+        php7-intl \
         php7-curl \
         php7-ctype \
         php7-dom \
